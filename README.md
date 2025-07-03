@@ -1,54 +1,77 @@
-# React + TypeScript + Vite
+# RuangHalal.id — Halal Certification Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing page resmi untuk **RuangHalal.id**, platform yang membantu pelaku usaha mendapatkan **sertifikasi halal** secara mudah dan cepat.
 
-Currently, two official plugins are available:
+>  Live Site: [https://ruang-halal.vercel.app](https://ruang-halal.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Fitur
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+- Responsif dan ringan
+- Hero section dinamis dengan animasi teks
+- Galeri layanan (produk & jasa) berbasis Masonry
+- Formulir pengajuan sertifikasi halal terhubung dengan Firebase Firestore
+- Tombol mengambang: WhatsApp, LiveChat (dummy), dan Scroll to Top
+- Navigasi halus antar section menggunakan `react-scroll`
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
+---
+
+## Teknologi
+
+- **Frontend**: React, TypeScript, Tailwind CSS, Vite
+- **Backend**: Firebase (Firestore)
+- **Deployment**: Vercel
+
+---
+
+## Jalankan di Lokal
+
+1. Clone repository
+```bash
+git clone https://github.com/imanatsaqif/ruanghalal-landingpage.git
+cd ruanghalal-landingpage
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
+2. Install dependencies
+```bash
+npm install
 ```
+
+3. Tambahkan konfigurasi Firebase di file `.env`
+```env
+VITE_FIREBASE_API_KEY=your_api_key
+VITE_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
+VITE_FIREBASE_PROJECT_ID=your_project_id
+VITE_FIREBASE_STORAGE_BUCKET=your_project.appspot.com
+VITE_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
+VITE_FIREBASE_APP_ID=your_app_id
+```
+
+4. Jalankan aplikasi
+```bash
+npm run dev
+```
+
+---
+
+## Struktur Folder (Singkat)
+
+```
+src/
+├── components/     # Komponen UI
+├── pages/          # Halaman utama (Main.tsx, Intro.tsx)
+├── assets/         # Gambar/icon (jika ada)
+└── ...
+```
+
+---
+
+## Kontributor
+
+**Imana Tsaqif Ariyadi**  
+Fresh Graduate in Computer Science, IPB University  
+[LinkedIn](https://linkedin.com/in/imanatsaqif) · [GitHub](https://github.com/imanatsaqif)
+
+> “Functionality first. Fancy words later.”
+
