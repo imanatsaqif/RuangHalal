@@ -55,17 +55,6 @@ npm run dev
 
 ---
 
-## Struktur Folder (Singkat)
-
-```
-src/
-├── components/     # Komponen UI
-├── pages/          # Halaman utama (Main.tsx, Intro.tsx)
-├── assets/         # Gambar/icon (jika ada)
-└── ...
-```
-
----
 
 ## Kontributor
 
