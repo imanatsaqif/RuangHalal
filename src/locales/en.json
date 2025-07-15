@@ -1,0 +1,209 @@
+{
+    "hero": {
+        "questions": [
+            "IS YOUR PRODUCT\nALREADY HALAL?",
+            "WHY SHOULD MY PRODUCT\nBE HALAL?",
+            "DO SERVICES NEED A\nHALAL CERTIFICATE?"
+        ],
+        "scrollMessage": "Scroll down to find the solution!"
+    },
+    "header": {
+        "brand": "Ruanghalal.id",
+        "tentang": "About",
+        "produk": "Products & Services",
+        "kontak": "Contact",
+        "cta": "Apply for Certification",
+        "marketplace": "Halal Marketplace"
+    },
+    "language": {
+        "label": "Language"
+    },
+    "mengapa": {
+        "title": "WHY DO YOUR PRODUCTS AND SERVICES",
+        "subtitle": "NEED TO BE HALAL CERTIFIED?",
+        "law": {
+            "title": "Law No. 33 of 2014\non Halal Product Assurance",
+            "description": "Law Number 33 of 2014 concerning Halal Product Assurance (UU JPH) mandates halal certification for products circulating in Indonesia to protect Muslim consumers."
+        },
+        "benefit1": "Increase\nConsumer Trust",
+        "benefit2": "Enhance\nProduct Value",
+        "benefit3": "Expand\nMarket Reach"
+    },
+    "produkHalal": {
+        "title": "WHICH PRODUCTS AND SERVICES\nREQUIRE HALAL CERTIFICATION?",
+        "items": [
+            {
+                "src": "/img/produk/makanan-siap-saji.webp",
+                "label": "Ready-to-Eat Foods"
+            },
+            {
+                "src": "/img/produk/obat.webp",
+                "label": "Medicines"
+            },
+            {
+                "src": "/img/produk/suplemen.webp",
+                "label": "Supplements"
+            },
+            {
+                "src": "/img/produk/pembersih.webp",
+                "label": "Cleaning Products"
+            },
+            {
+                "src": "/img/produk/minuman.webp",
+                "label": "Beverages"
+            },
+            {
+                "src": "/img/produk/kosmetik.webp",
+                "label": "Cosmetics"
+            },
+            {
+                "src": "/img/produk/daging.webp",
+                "label": "Meat"
+            },
+            {
+                "src": "/img/produk/buah.webp",
+                "label": "Fruits"
+            },
+            {
+                "src": "/img/produk/penyembelihan.webp",
+                "label": "Slaughtering Services"
+            },
+            {
+                "src": "/img/produk/kurir.webp",
+                "label": "Courier Services"
+            }
+        ],
+        "show": "Click here to view full list of products & services",
+        "hide": "Hide full list",
+        "desc": "According to GR 39/2021 and GR 42/2024, the following products and services require halal certification:",
+        "list": [
+            "Food & beverages",
+            "Medicines & supplements",
+            "Cosmetics",
+            "Chemical & biological products",
+            "Genetically modified products",
+            "Textiles, leather & footwear",
+            "Processing, storage, packaging, distribution",
+            "Animal slaughtering",
+            "Sales & serving services",
+            "Courier services"
+        ]
+    },
+    "cta": {
+        "title": "What Are You Waiting For?\nLet’s Register Your Product",
+        "button": "Register Now"
+    },
+    "footer": {
+        "address": {
+            "line1": "Starfindo Space, PIDI4.0 Building 8th Floor, Jl. Raya Kebayoran Lama, Sukabumi Selatan, Kebon Jeruk District, South Jakarta City, Special Capital Region of Jakarta, 11560",
+            "phone": "Phone:"
+        },
+        "links": {
+            "title": "Useful Links",
+            "home": "Home",
+            "about": "About Us",
+            "services": "Our Services",
+            "terms": "Terms of Service",
+            "privacy": "Privacy Policy"
+        },
+        "services": {
+            "title": "Our Services",
+            "certification": "Halal Certification",
+            "marketplace": "Halal Marketplace",
+            "export": "Halal Export Hub",
+            "tourism": "Halal Tourism",
+            "industry": "Industry 4.0"
+        },
+        "social": {
+            "title": "Social Media",
+            "desc": "Follow our social media accounts to stay updated with our activities."
+        },
+        "copyright": "Copyright Ruang Halal Indonesia. All Rights Reserved",
+        "madeBy": "Made with love by"
+    },
+    "formulir": {
+        "title": "Easily Get Your\nHalal Certificate\nWith Us",
+        "heading": "Welcome to RuangHalal.id\nPlease fill out the form to proceed",
+        "nama": "Name",
+        "usaha": "Business Name",
+        "email": "Email",
+        "nib": "Business ID (NIB)",
+        "submit": "SUBMIT",
+        "skip": "Fill out later",
+        "error": "Failed to submit data. Please try again."
+    },
+    "marketplace": {
+        "title": "Have a Halal Product?\nSell It in Our Marketplace!",
+        "description": "Ruang Halal provides a halal e-commerce platform to help small businesses market their halal products easily, securely, and reliably.",
+        "button": "Visit Marketplace"
+    },
+    "mengapaKami": {
+        "judul": "Exciting Experience Assisting SMEs to Obtain Halal Certification in Central Java",
+        "trustedTitle": "Trusted by more than 200+ Clients",
+        "trustedSubtitle": "SMEs, Industries, Horeca (Hotel, Restaurant, Café), and companies inside and outside Indonesia"
+    },
+    "prosedurHalal": {
+        "judul": "Halal Certification Procedure: Independent vs Assisted by RuangHalal",
+        "mandiriLabel": "Independent Process",
+        "bantuanLabel": "With RuangHalal",
+        "tahapan": "Steps",
+        "mandiri": "Independent",
+        "bantuan": "RuangHalal",
+        "whyTitle": "Why Choose RuangHalal?",
+        "advantages": [
+            "Save time and energy",
+            "Minimize failure risk",
+            "Complete guidance from start to certificate issuance",
+            "Expert team providing direct assistance",
+            "WhatsApp support 7 days a week"
+        ],
+        "cta": "Apply for Certification Now",
+        "steps": [
+            {
+                "title": "SIHALAL System Registration",
+                "mandiri": "Must create an account in the SIHALAL system. Technical guide is complicated. Wrong input may cause the process to repeat.",
+                "bantuan": "We help register your account, ensuring all inputs meet BPJPH requirements."
+            },
+            {
+                "title": "Determining Business Category",
+                "mandiri": "Need to understand product classification, self-declare vs. regular scheme.",
+                "bantuan": "We help analyze your business and select the best scheme."
+            },
+            {
+                "title": "SJH Training",
+                "mandiri": "Must find training institution independently with limited time.",
+                "bantuan": "We help register according to your schedule."
+            },
+            {
+                "title": "Halal Document Preparation",
+                "mandiri": "Must prepare SJH, raw materials, suppliers. All must be complete.",
+                "bantuan": "We help prepare documents with easy-to-fill formats."
+            },
+            {
+                "title": "Internal Audit & Supervisor",
+                "mandiri": "Must appoint a supervisor, understand reporting and documentation.",
+                "bantuan": "We provide audit templates and assist with training."
+            },
+            {
+                "title": "Certification Submission",
+                "mandiri": "Manual upload, format must be correct, often causes errors.",
+                "bantuan": "We help upload and ensure completeness."
+            },
+            {
+                "title": "LPH Audit Process",
+                "mandiri": "Scheduling and audit preparation can be complicated.",
+                "bantuan": "We help with preparation and coordination with LPH."
+            },
+            {
+                "title": "Fatwa & Halal Determination",
+                "mandiri": "Difficult to monitor, don't know where to follow up.",
+                "bantuan": "We help monitor and update your progress."
+            },
+            {
+                "title": "Halal Certificate Issuance",
+                "mandiri": "±21 working days, must check manually.",
+                "bantuan": "We send it directly once the certificate is issued."
+            }
+        ]
+    }
+}

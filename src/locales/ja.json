@@ -1,0 +1,209 @@
+{
+    "hero": {
+        "questions": [
+            "あなたの製品は\nすでにハラールですか？",
+            "なぜ私の製品は\nハラールであるべきですか？",
+            "サービスには\nハラール認証が必要ですか？"
+        ],
+        "scrollMessage": "スクロールして解決策を見つけましょう！"
+    },
+    "header": {
+        "brand": "Ruanghalal.id",
+        "tentang": "私たちについて",
+        "produk": "製品とサービス",
+        "kontak": "お問い合わせ",
+        "cta": "ハラール認証申請",
+        "marketplace": "ハラールマーケットプレイス"
+    },
+    "language": {
+        "label": "言語"
+    },
+    "mengapa": {
+        "title": "なぜあなたの製品とサービスは",
+        "subtitle": "ハラール認証が必要なのか？",
+        "law": {
+            "title": "2014年法律第33号\nハラール製品保証について",
+            "description": "ハラール製品保証に関する2014年法律第33号（UU JPH）は、インドネシアで流通する製品に対してハラール認証を義務付け、ムスリム消費者を保護しています。"
+        },
+        "benefit1": "消費者の信頼\nを高める",
+        "benefit2": "製品価値を\n高める",
+        "benefit3": "市場展開の\n拡大"
+    },
+    "produkHalal": {
+        "title": "ハラール認証が必要な\n製品・サービスは？",
+        "items": [
+            {
+                "src": "/img/produk/makanan-siap-saji.webp",
+                "label": "調理済み食品"
+            },
+            {
+                "src": "/img/produk/obat.webp",
+                "label": "医薬品"
+            },
+            {
+                "src": "/img/produk/suplemen.webp",
+                "label": "サプリメント"
+            },
+            {
+                "src": "/img/produk/pembersih.webp",
+                "label": "洗浄製品"
+            },
+            {
+                "src": "/img/produk/minuman.webp",
+                "label": "飲料"
+            },
+            {
+                "src": "/img/produk/kosmetik.webp",
+                "label": "化粧品"
+            },
+            {
+                "src": "/img/produk/daging.webp",
+                "label": "肉類"
+            },
+            {
+                "src": "/img/produk/buah.webp",
+                "label": "果物"
+            },
+            {
+                "src": "/img/produk/penyembelihan.webp",
+                "label": "屠殺サービス"
+            },
+            {
+                "src": "/img/produk/kurir.webp",
+                "label": "宅配サービス"
+            }
+        ],
+        "show": "製品・サービスの一覧を見る",
+        "hide": "一覧を閉じる",
+        "desc": "GR 39/2021 および GR 42/2024 に基づき、ハラール認証が必要な製品およびサービスは以下の通りです：",
+        "list": [
+            "食品・飲料",
+            "医薬品・サプリメント",
+            "化粧品",
+            "化学・生物製品",
+            "遺伝子組換え製品",
+            "繊維、皮革、履物",
+            "加工、保存、包装、流通",
+            "動物の屠殺",
+            "販売・提供サービス",
+            "宅配サービス"
+        ]
+    },
+    "cta": {
+        "title": "もう待つ必要はありません\n今すぐ製品を登録しましょう",
+        "button": "今すぐ登録"
+    },
+    "footer": {
+        "address": {
+            "line1": "Starfindo Space、PIDI4.0ビル8階、Jl. Raya Kebayoran Lama、南スカブミ、Kebon Jeruk、南ジャカルタ市、ジャカルタ首都特別州、11560",
+            "phone": "電話："
+        },
+        "links": {
+            "title": "重要なリンク",
+            "home": "ホーム",
+            "about": "私たちについて",
+            "services": "サービス",
+            "terms": "利用規約",
+            "privacy": "プライバシーポリシー"
+        },
+        "services": {
+            "title": "提供サービス",
+            "certification": "ハラール認証",
+            "marketplace": "ハラールマーケットプレイス",
+            "export": "ハラール輸出ハブ",
+            "tourism": "ハラール観光",
+            "industry": "インダストリー4.0"
+        },
+        "social": {
+            "title": "ソーシャルメディア",
+            "desc": "最新情報を取得するため、当社のSNSをフォローしてください。"
+        },
+        "copyright": "Copyright Ruang Halal Indonesia。全著作権所有",
+        "madeBy": "愛を込めて制作"
+    },
+    "formulir": {
+        "title": "もっと簡単に取得\nハラール認証を\n私たちと一緒に",
+        "heading": "RuangHalal.idへようこそ\n続行するにはフォームにご記入ください",
+        "nama": "お名前",
+        "usaha": "事業名",
+        "email": "メールアドレス",
+        "nib": "NIB（事業者ID）",
+        "submit": "送信",
+        "skip": "後で入力する",
+        "error": "送信に失敗しました。もう一度お試しください。"
+    },
+    "marketplace": {
+        "title": "ハラール商品をお持ちですか？\nマーケットプレイスで販売しよう！",
+        "description": "Ruang Halalは、ハラール製品を簡単・安全・信頼性をもって販売できるECプラットフォームを提供します。",
+        "button": "マーケットプレイスを見る"
+    },
+    "mengapaKami": {
+        "judul": "中部ジャワでUMKMのハラール認証取得を支援する\n楽しい活動",
+        "trustedTitle": "200社以上のクライアントに信頼されています",
+        "trustedSubtitle": "UMKM、中小企業、Horeca（ホテル・レストラン・カフェ）、国内外の企業"
+    },
+    "prosedurHalal": {
+        "judul": "ハラール認証手続き：自主申請 vs RuangHalal支援",
+        "mandiriLabel": "自主申請プロセス",
+        "bantuanLabel": "RuangHalalの支援",
+        "tahapan": "ステップ",
+        "mandiri": "自主申請",
+        "bantuan": "RuangHalal",
+        "whyTitle": "RuangHalalを選ぶ理由",
+        "advantages": [
+            "時間と労力の節約",
+            "失敗リスクの最小化",
+            "申請から認証取得までの完全ガイド",
+            "専門家チームによる直接サポート",
+            "週7日WhatsAppサポート"
+        ],
+        "cta": "今すぐ認証を申請",
+        "steps": [
+            {
+                "title": "SIHALALシステム登録",
+                "mandiri": "SIHALALシステムでアカウント作成が必要。技術ガイドは複雑。入力ミスで手続きがやり直しになる可能性あり。",
+                "bantuan": "BPJPHの要件に合うよう、アカウント登録をサポートします。"
+            },
+            {
+                "title": "事業カテゴリーの決定",
+                "mandiri": "製品分類、自己宣言 vs 通常スキームを理解する必要あり。",
+                "bantuan": "事業分析を行い、最適なスキームを選択します。"
+            },
+            {
+                "title": "SJHトレーニング",
+                "mandiri": "限られた時間で自主的にトレーニング機関を見つける必要あり。",
+                "bantuan": "ご都合に合わせて登録をサポートします。"
+            },
+            {
+                "title": "ハラール書類の作成",
+                "mandiri": "SJH、原材料、サプライヤー情報を準備。全て完全である必要あり。",
+                "bantuan": "記入しやすいフォーマットで書類作成をサポートします。"
+            },
+            {
+                "title": "内部監査と監督者",
+                "mandiri": "監督者を任命し、報告と文書化を理解する必要あり。",
+                "bantuan": "監査テンプレートを提供し、トレーニングをサポートします。"
+            },
+            {
+                "title": "認証申請",
+                "mandiri": "手動アップロード、フォーマットが正しくないとエラーが頻発。",
+                "bantuan": "アップロードをサポートし、完全性を確認します。"
+            },
+            {
+                "title": "LPH監査プロセス",
+                "mandiri": "スケジュール調整と監査準備が複雑。",
+                "bantuan": "準備とLPHとの調整をサポートします。"
+            },
+            {
+                "title": "ファトワとハラール決定",
+                "mandiri": "進捗の追跡が困難、フォローアップ先が不明。",
+                "bantuan": "進捗を監視し、最新情報をお知らせします。"
+            },
+            {
+                "title": "ハラール証明書発行",
+                "mandiri": "約21営業日、手動で確認が必要。",
+                "bantuan": "証明書発行後、直接お送りします。"
+            }
+        ]
+    }
+}

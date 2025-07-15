@@ -1,0 +1,209 @@
+{
+    "hero": {
+        "questions": [
+            "SUDAH HALAL KAH\nPRODUKMU SAAT INI?",
+            "KENAPA PRODUK SAYA\nHARUS HALAL?",
+            "APAKAH JASA PERLU\nSERTIFIKAT HALAL?"
+        ],
+        "scrollMessage": "Scroll ke bawah untuk dapatkan solusinya!"
+    },
+    "header": {
+        "brand": "Ruanghalal.id",
+        "tentang": "Tentang",
+        "produk": "Produk & Jasa",
+        "kontak": "Kontak",
+        "cta": "Ajukan Sertifikasi",
+        "marketplace": "Halal Marketplace"
+    },
+    "language": {
+        "label": "Bahasa"
+    },
+    "mengapa": {
+        "title": "MENGAPA PRODUK DAN JASA ANDA",
+        "subtitle": "HARUS BERSERTIFIKAT HALAL?",
+        "law": {
+            "title": "UU No. 33 tahun 2014\nTentang Jaminan Produk Halal",
+            "description": "Undang-Undang Nomor 33 Tahun 2014 tentang Jaminan Produk Halal (UU JPH) mewajibkan sertifikasi halal bagi produk yang beredar di Indonesia untuk melindungi konsumen Muslim."
+        },
+        "benefit1": "Meningkatkan\nKepercayaan Konsumen",
+        "benefit2": "Menambah\nNilai Jual Produk",
+        "benefit3": "Perluas\nJangkauan Pasar"
+    },
+    "produkHalal": {
+        "title": "PRODUK DAN JASA APA SAJA YANG WAJIB\nBERSERTIFIKASI HALAL?",
+        "items": [
+            {
+                "src": "/img/produk/makanan-siap-saji.webp",
+                "label": "Makanan Siap Saji"
+            },
+            {
+                "src": "/img/produk/obat.webp",
+                "label": "Obat-obatan"
+            },
+            {
+                "src": "/img/produk/suplemen.webp",
+                "label": "Suplemen"
+            },
+            {
+                "src": "/img/produk/pembersih.webp",
+                "label": "Produk Pembersih"
+            },
+            {
+                "src": "/img/produk/minuman.webp",
+                "label": "Minuman"
+            },
+            {
+                "src": "/img/produk/kosmetik.webp",
+                "label": "Kosmetik"
+            },
+            {
+                "src": "/img/produk/daging.webp",
+                "label": "Daging"
+            },
+            {
+                "src": "/img/produk/buah.webp",
+                "label": "Buah"
+            },
+            {
+                "src": "/img/produk/penyembelihan.webp",
+                "label": "Jasa Penyembelihan"
+            },
+            {
+                "src": "/img/produk/kurir.webp",
+                "label": "Jasa Kurir"
+            }
+        ],
+        "show": "Klik di sini untuk lihat daftar lengkap produk & jasa",
+        "hide": "Tutup daftar lengkap",
+        "desc": "Berdasarkan GR 39/2021 dan GR 42/2024, produk dan jasa yang wajib memiliki sertifikasi halal meliputi:",
+        "list": [
+            "Makanan & minuman",
+            "Obat-obatan & suplemen",
+            "Kosmetik",
+            "Produk kimia & biologis",
+            "Produk rekayasa genetika",
+            "Textile, leather & alas kaki",
+            "Pengolahan, penyimpanan, pengepakan, distribusi",
+            "Penyembelihan hewan",
+            "Jasa penjualan & penyajian",
+            "Jasa kurir"
+        ]
+    },
+    "cta": {
+        "title": "Tunggu Apa Lagi\nMari Daftarkan Produk Anda",
+        "button": "Daftar Sekarang"
+    },
+    "footer": {
+        "address": {
+            "line1": "Starfindo Space, Gedung PIDI4.0 Lantai 8, Jl. Raya Kebayoran Lama, Sukabumi Selatan, Kecamatan Kebon Jeruk, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, 11560",
+            "phone": "Telpon:"
+        },
+        "links": {
+            "title": "Tautan Penting",
+            "home": "Beranda",
+            "about": "Tentang Kami",
+            "services": "Layanan Kami",
+            "terms": "Persyaratan Layanan",
+            "privacy": "Kebijakan Pribadi"
+        },
+        "services": {
+            "title": "Layanan Kami",
+            "certification": "Sertifikasi Halal",
+            "marketplace": "Halal Marketplace",
+            "export": "Halal Export Hub",
+            "tourism": "Wisata Halal",
+            "industry": "Industri 4.0"
+        },
+        "social": {
+            "title": "Sosial Media",
+            "desc": "Berikut adalah akun sosial media kami, silakan terhubung untuk mendapatkan update kegiatan kami."
+        },
+        "copyright": "Copyright Ruang Halal Indonesia. Semua Hak Dilindungi",
+        "madeBy": "Dibuat dengan cinta oleh"
+    },
+    "formulir": {
+        "title": "Lebih Mudah Dapatkan\nSertifikat Halal Anda\nBersama Kami",
+        "heading": "Selamat datang di RuangHalal.id\nSilakan mengisi form untuk melanjutkan",
+        "nama": "Nama",
+        "usaha": "Nama Usaha",
+        "email": "Email",
+        "nib": "NIB",
+        "submit": "KIRIM",
+        "skip": "Isi formulir nanti",
+        "error": "Gagal mengirim data. Silakan coba lagi."
+    },
+    "marketplace": {
+        "title": "Punya Produk Halal?\nPasarkan di Marketplace Kami!",
+        "description": "Ruang Halal menyediakan platform e-commerce halal untuk membantu UMKM memasarkan produk halal mereka secara mudah, aman, dan terpercaya.",
+        "button": "Kunjungi Marketplace"
+    },
+    "mengapaKami": {
+        "judul": "Serunya Kegiatan Mendampingi UMKM untuk mendapatkan Sertifikat Halal di Jawa Tengah",
+        "trustedTitle": "Dipercaya oleh lebih dari 200+ Klien",
+        "trustedSubtitle": "UMKM, IKM, Horeca (Hotel, Resto, Cafe), dan Perusahaan di dalam dan luar negeri"
+    },
+    "prosedurHalal": {
+        "judul": "Prosedur Sertifikasi Halal: Mandiri vs Dibantu RuangHalal",
+        "mandiriLabel": "Proses Mandiri",
+        "bantuanLabel": "Dengan RuangHalal",
+        "tahapan": "Tahapan",
+        "mandiri": "Mandiri",
+        "bantuan": "RuangHalal",
+        "whyTitle": "Kenapa Pilih RuangHalal?",
+        "advantages": [
+            "Hemat waktu dan tenaga",
+            "Minim risiko gagal",
+            "Panduan lengkap dari awal hingga sertifikat terbit",
+            "Tim ahli yang mendampingi langsung",
+            "Support WhatsApp 7 hari seminggu"
+        ],
+        "cta": "Ajukan Sertifikasi Sekarang",
+        "steps": [
+            {
+                "title": "Registrasi Sistem SIHALAL",
+                "mandiri": "Harus membuat akun di sistem SIHALAL. Panduan teknis rumit. Salah input bisa menyebabkan proses ulang.",
+                "bantuan": "Kami bantu daftarkan akun Anda, pastikan semua input sesuai syarat BPJPH."
+            },
+            {
+                "title": "Menentukan Kategori Usaha",
+                "mandiri": "Perlu pahami klasifikasi produk, skema self declare vs. reguler.",
+                "bantuan": "Kami bantu analisis usaha & pilih skema terbaik."
+            },
+            {
+                "title": "Pelatihan SJH",
+                "mandiri": "Harus cari lembaga pelatihan sendiri, waktu terbatas.",
+                "bantuan": "Kami bantu daftarkan sesuai jadwal Anda."
+            },
+            {
+                "title": "Penyusunan Dokumen Halal",
+                "mandiri": "Wajib susun SJH, bahan baku, supplier. Semua harus lengkap.",
+                "bantuan": "Kami bantu susun dokumen dengan format yang mudah diisi."
+            },
+            {
+                "title": "Audit Internal & Penyelia",
+                "mandiri": "Harus tunjuk penyelia, pahami pelaporan dan dokumentasi.",
+                "bantuan": "Kami sediakan template audit & bantu pelatihan."
+            },
+            {
+                "title": "Pengajuan Sertifikasi",
+                "mandiri": "Upload manual, format harus sesuai, sering error.",
+                "bantuan": "Kami bantu upload dan pastikan lengkap."
+            },
+            {
+                "title": "Proses Audit LPH",
+                "mandiri": "Penjadwalan dan persiapan audit bisa rumit.",
+                "bantuan": "Kami bantu persiapan & koordinasi dengan LPH."
+            },
+            {
+                "title": "Fatwa & Penetapan Halal",
+                "mandiri": "Sulit pantau, tidak tahu harus follow-up ke mana.",
+                "bantuan": "Kami bantu pantau & update progres Anda."
+            },
+            {
+                "title": "Terbit Sertifikat Halal",
+                "mandiri": "±21 hari kerja, harus cek manual.",
+                "bantuan": "Kami kirimkan langsung setelah sertifikat terbit."
+            }
+        ]
+    }
+}
