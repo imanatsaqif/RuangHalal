@@ -14,6 +14,7 @@ Landing page resmi untuk **RuangHalal.id**, platform yang membantu pelaku usaha 
 - Formulir pengajuan sertifikasi halal terhubung dengan Firebase Firestore
 - Tombol mengambang: WhatsApp, LiveChat (dummy), dan Scroll to Top
 - Navigasi halus antar section menggunakan `react-scroll`
+- Dukungan multi-bahasa dengan `i18next`, menyimpan file terjemahan di folder `src/locales`
 
 ---
 
@@ -22,6 +23,7 @@ Landing page resmi untuk **RuangHalal.id**, platform yang membantu pelaku usaha 
 - **Frontend**: React, TypeScript, Tailwind CSS, Vite
 - **Backend**: Firebase (Firestore)
 - **Deployment**: Vercel
+- **Internationalization**: i18next
 
 ---
 
